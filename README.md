@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **ravalharsh3103@gmail.com**
+- My Resume - [Harsh Raval.pdf](https://github.com/user-attachments/files/18731720/Harsh.Raval.pdf)
 
 <h3 align="left">Connect with me:</h3>
  <p> +91- 9662087774 </p> 
