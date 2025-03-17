@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Raval</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer From India</h3>
 
 - 📫 How to reach me **ravalharsh3103@gmail.com**
 - My Resume - [Harsh Raval.pdf](https://github.com/user-attachments/files/18731720/Harsh.Raval.pdf)
+- Portfolio - https://harsh-raval-portfolio-boka.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
  <p> +91- 9662087774 </p> 
